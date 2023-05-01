@@ -1,1 +1,1 @@
-Content.
+document.write(window.location.search);
